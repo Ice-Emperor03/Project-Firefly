@@ -18,7 +18,7 @@ payloads from its
 
 ## WARNING: Ethical Use of Project Firefly
 Project Firefly is a tool designed to automate reverse shell generation for pentesting. Due to the Ngrok tunneling feature, please note 
-that unauthorized usage of payloads is illegal, and this tool is designed for **educational** and **authorized testing purposes only**. 
+that unauthorized usage of port-forwarded payloads is illegal, and this tool is designed for **educational** and **authorized testing purposes only**. 
 It is strictly prohibited to use this tool to gain unauthorized access to computer systems, networks, data, or engage in any harmful actions. 
 By using Project Firefly, you acknowledge that you are responsible for your own actions and agree to use this tool ethically and responsibly.
 
