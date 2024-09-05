@@ -33,9 +33,12 @@ A Swiss-Army Knife for payload generation\U0001F52A Coded by: 冰皇
 [2] Linux
 [3] Android
 [4] PHP
+
+=* For Android Payloads *=
 [5] Generate Key
 [6] Manage APK
 
+=* Others *=
 [00] Exit Program 
         """)
 
